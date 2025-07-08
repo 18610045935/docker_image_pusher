@@ -5,6 +5,8 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 #新增镜像
+helloworld/helloworld:latest
+fiscoorg/fiscobcos:latest
 infiniflow/ragflow:v0.16.0
 infiniflow/infinity:v0.6.0-dev3
 elasticsearch:8.11.3
